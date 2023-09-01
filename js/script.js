@@ -21,7 +21,7 @@ function login(){
     }
 
     if(logado == 0){
-        alert("Acesso negado. Dados incorretos");
+        alert("Acesso negado, dados incorretos");
     }   
 
 }

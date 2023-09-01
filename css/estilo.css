@@ -28,7 +28,7 @@ height: 500px;
     border: 1px solid #ccc;
     border-radius: 10px;
 }
-#section-vendidos .card-price {
+#section-vendidos .preço {
     color: red;
     font-size: 18px;
     font-weight: bold;
